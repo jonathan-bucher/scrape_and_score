@@ -68,7 +68,8 @@ def assign_rankings(df, col: str) -> list:
     
     return df
 
-def qb_def_pass_rankings(defense_df, player_df):
+
+def qb_def_rankings(defense_df, player_df):
     """
     takes a pfr dataframe of quarterback weekly stats, and will append a value for the quality of the passing defense played that week
     """

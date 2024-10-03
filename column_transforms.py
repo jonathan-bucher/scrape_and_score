@@ -7,6 +7,10 @@ import pandas as pd
 import re
 import random
 
+import logging
+logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
+logging.debug('start of column_transforms')
+
 def defense_column_transform(df, year: int):
     """
     keeps only the relevant columns, and renames for clarity
@@ -15,6 +19,10 @@ def defense_column_transform(df, year: int):
     df = df[['Tm', 'Yds', 'Yds.4']].copy()
     df.rename(columns = {'Yds': 'PassYds', 'Yds.4': 'RushYds'}, inplace = True)
     df['Year'] = year
+
+    if df.isnull().values.any():
+        logging.warning(f"null values detected")
+        
     return df
 
 
@@ -127,3 +135,5 @@ def format(df, position: str):
             df.loc[index, 'Started'] = False
         
     return df
+
+logging.debug('end of column_transfrom')
