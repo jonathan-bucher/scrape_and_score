@@ -42,26 +42,11 @@ team_abbreviation_dict = {
     'Washington Redskins': 'WAS'
 }
 
-
-def quick_sort(nums: list) -> list:
-    """
-    sorts a list of numeric values into ascending order
-    """
-    if len(nums) <= 1:
-        return nums
-    pivot_index = random.randint(0, len(nums) - 1)
-    pivot = nums[pivot_index]
-    left = [x for x in nums if x < pivot]
-    middle = [x for x in nums if x == pivot]
-    right = [x for x in nums if x > pivot]   
-    return quick_sort(left) + middle + quick_sort(right)
-
-
 def assign_rankings(df, col: str) -> list:
     """
     takes a dataframe, and appends a row with rankings for a specific column
     """
-    ordered = quick_sort(list(df[col]))
+    ordered = sorted(list(df[col]))
 
     for index, row in df.iterrows():
         df.loc[index, 'def_rk'] = ordered.index(row[col]) + 1
