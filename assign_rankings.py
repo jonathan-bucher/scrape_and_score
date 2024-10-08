@@ -1,10 +1,19 @@
+
+from setuptools import setup, find_packages
+
+setup(
+    name = 'assign_rankings',
+    version = '0.1',
+    packages = find_packages(),
+)
+
+
 # the probability of a quarterback hitting their projected passing yards in a given week is found by comparing 
 # the defense they are facing with similar defenses they have played in the past. This critical step necessitates
 # appending a def_rank column to dataframes with quarterback weekly gamelogs
 
 import numpy as np
 import pandas as pd
-import random
 
 team_abbreviation_dict = {
     'Arizona Cardinals': 'ARI',
@@ -39,7 +48,8 @@ team_abbreviation_dict = {
     'Tampa Bay Buccaneers': 'TAM',
     'Tennessee Titans': 'TEN',
     'Washington Commanders': 'WAS',
-    'Washington Redskins': 'WAS'
+    'Washington Redskins': 'WAS',
+    'Washington Football Team': 'WAS'
 }
 
 def assign_rankings(df, col: str) -> list:
@@ -59,7 +69,7 @@ def qb_def_rankings(defense_df, player_df):
     takes a pfr dataframe of quarterback weekly stats, and will append a value for the quality of the passing defense played that week
     """
     
-    # Map the team abbreviations to the full team names in defense_2023 DataFrame
+    # Map the team names to their abbreviations in the defense DataFrame
     defense_df['Opp'] = defense_df['Tm'].map(team_abbreviation_dict)
 
     # Merge player_df with defense_df on both Year and Opponent columns

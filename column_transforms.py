@@ -1,3 +1,12 @@
+
+from setuptools import setup, find_packages
+
+setup(
+    name = 'columns_transforms',
+    version = '0.1',
+    packages = find_packages(),
+)
+
 # pfr dataframes include many columns that are unnecessary for this project, which vary by position. 
 # we these columns, rename relevant columns for clarity, and convert data to numeric datatypes in 
 # preparation for statistical analysis
@@ -41,6 +50,7 @@ def qb_column_transform(df):
     df = df[['Rk', 'Year', 'Date', 'Week', 'Tm', 'Opp', 'Result', 'Unnamed: 7', 'GS',
                                     'Att', 'Yds', 'TD', 
                                     'Yds.2', 'TD.1']].copy()
+
     
     # rename columns for clarity
     df.rename(columns = {'Yds': 'PassYds'}, inplace = True)
@@ -50,6 +60,12 @@ def qb_column_transform(df):
     df.rename(columns = {'Unnamed: 7': 'Home'}, inplace = True)
     df.rename(columns = {'Rk': 'Time'}, inplace = True)
     df.rename(columns = {'GS': 'Started'}, inplace = True)
+
+    # turn home into a boolean value
+    df['Home'] = df['Home'].map(lambda x: x != '@')
+
+    # turn ttarted into a boolean value
+    df['Started'] = df['Started'].map(lambda x: x == '*')
 
     # convert columns to numeric datatype
     df['PassYds'] = pd.to_numeric(df['PassYds'], errors='coerce')

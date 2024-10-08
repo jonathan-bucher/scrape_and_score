@@ -2,3 +2,4 @@
 score_env
 pytest.ini
 __pycache__
+visualization.ipynb

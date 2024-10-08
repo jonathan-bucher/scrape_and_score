@@ -8,8 +8,10 @@ import numpy as np
 import requests
 from bs4 import BeautifulSoup
 import os
-# import formatting_functions as ff
 import time
+
+import assign_rankings as ar
+import column_transforms as ct
 
 def scrape_pfr_data(year: int):
 
@@ -55,13 +57,14 @@ def scrape_pfr_data(year: int):
     df = pd.DataFrame(rows, columns = subheaders)
     df.replace("", np.nan, inplace = True)
 
-    # add in a step where we clean the data, and rank it. This will need to be tested
+    # clean the data, and rank it
+    df = ct.defense_column_transform(df.copy(), year)
+    df = ar.assign_rankings(df.copy(), 'PassYds')
 
     # cache to a csv
     df.to_csv(rf"C:\Users\jonat\Python\football_data\defense\{year}_nfl_defense_data.txt", index = False)
 
     return df
-
 
 # retrieve all data going back to 2005. Compile into seperate folders and also a central dataframe
 years = range(2005,2024)
@@ -88,4 +91,5 @@ for file_name in os.listdir(folder_path):
 central_df = pd.concat(dfs, ignore_index=True)
 
 # save the central dataframe to a new csv
-central_df.to_csv(r'C:\Users\jonat\Python\football_data\05-24_defense.txt', index=False)
+central_df.to_csv(r'C:\Users\jonat\Python\football_data\05_24_defense.txt', index=False)
+
