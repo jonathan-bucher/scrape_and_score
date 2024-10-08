@@ -1,12 +1,4 @@
 
-from setuptools import setup, find_packages
-
-setup(
-    name = 'columns_transforms',
-    version = '0.1',
-    packages = find_packages(),
-)
-
 # pfr dataframes include many columns that are unnecessary for this project, which vary by position. 
 # we these columns, rename relevant columns for clarity, and convert data to numeric datatypes in 
 # preparation for statistical analysis
@@ -19,6 +11,7 @@ import random
 import logging
 logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
 logging.debug('start of column_transforms')
+
 
 def defense_column_transform(df, year: int):
     """

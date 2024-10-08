@@ -1,13 +1,4 @@
 
-from setuptools import setup, find_packages
-
-setup(
-    name = 'assign_rankings',
-    version = '0.1',
-    packages = find_packages(),
-)
-
-
 # the probability of a quarterback hitting their projected passing yards in a given week is found by comparing 
 # the defense they are facing with similar defenses they have played in the past. This critical step necessitates
 # appending a def_rank column to dataframes with quarterback weekly gamelogs
