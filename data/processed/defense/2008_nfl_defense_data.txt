@@ -1,0 +1,33 @@
+Tm,PassYds,RushYds,Year,def_rk
+Pittsburgh Steelers,3795,1284,2008,1.0
+Tennessee Titans,4698,1502,2008,7.0
+Baltimore Ravens,4177,1302,2008,2.0
+Philadelphia Eagles,4389,1476,2008,3.0
+New York Giants,4672,1533,2008,5.0
+Washington Redskins,4621,1526,2008,4.0
+Indianapolis Colts,4975,1966,2008,11.0
+New England Patriots,4944,1722,2008,10.0
+Miami Dolphins,5264,1620,2008,15.0
+Tampa Bay Buccaneers,4898,1901,2008,9.0
+Atlanta Falcons,5566,2040,2008,24.0
+Carolina Panthers,5299,1912,2008,18.0
+Minnesota Vikings,4679,1230,2008,6.0
+Buffalo Bills,5217,1946,2008,14.0
+San Diego Chargers,5599,1641,2008,25.0
+Chicago Bears,5355,1496,2008,21.0
+Cleveland Browns,5704,2431,2008,26.0
+New York Jets,5270,1518,2008,16.0
+Cincinnati Bengals,5208,1921,2008,12.0
+Dallas Cowboys,4709,1706,2008,8.0
+Jacksonville Jaguars,5295,1709,2008,17.0
+Green Bay Packers,5349,2105,2008,20.0
+San Francisco 49ers,5216,1709,2008,13.0
+Oakland Raiders,5775,2555,2008,27.0
+Seattle Seahawks,6048,1899,2008,30.0
+New Orleans Saints,5432,1885,2008,23.0
+Houston Texans,5385,1962,2008,22.0
+Arizona Cardinals,5304,1764,2008,19.0
+Kansas City Chiefs,6291,2543,2008,31.0
+Denver Broncos,5993,2337,2008,29.0
+St. Louis Rams,5950,2475,2008,28.0
+Detroit Lions,6470,2754,2008,32.0

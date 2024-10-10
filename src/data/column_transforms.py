@@ -54,12 +54,6 @@ def qb_column_transform(df):
     df.rename(columns = {'Rk': 'Time'}, inplace = True)
     df.rename(columns = {'GS': 'Started'}, inplace = True)
 
-    # turn home into a boolean value
-    df['Home'] = df['Home'].map(lambda x: x != '@')
-
-    # turn ttarted into a boolean value
-    df['Started'] = df['Started'].map(lambda x: x == '*')
-
     # convert columns to numeric datatype
     df['PassYds'] = pd.to_numeric(df['PassYds'], errors='coerce')
     df['PassTD'] = pd.to_numeric(df['PassTD'], errors='coerce')
@@ -125,23 +119,14 @@ def format(df, position: str):
         df = qb_column_transform(df)
 
     elif position == 'DEF':
-        df = defense_column_transform(df)
+        df = defense_column_transform(df, 'PassYds')
         return df
 
-    # Iterating over the DataFrame rows
-    for index, row in df.copy().iterrows():
+    # turn home into a boolean value
+    df['Home'] = df['Home'].map(lambda x: x != '@')
 
-    # create a column of True or False values for Home:
-        if row['Home'] == '@':
-            df.loc[index, 'Home'] = False
-        else:
-            df.loc[index, 'Home'] = True
-
-        # enter a boolean value for the 'started' column
-        if row['Started'] == '*':
-            df.loc[index, 'Started'] = True
-        else:
-            df.loc[index, 'Started'] = False
+    # turn ttarted into a boolean value
+    df['Started'] = df['Started'].map(lambda x: x == '*')
         
     return df
 

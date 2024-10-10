@@ -3,3 +3,4 @@ score_env
 pytest.ini
 __pycache__
 setup.py
+__init__.py

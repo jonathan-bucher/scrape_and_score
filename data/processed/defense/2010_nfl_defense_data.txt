@@ -1,0 +1,33 @@
+Tm,PassYds,RushYds,Year,def_rk
+Pittsburgh Steelers,4429,1004,2010,2.0
+Green Bay Packers,4945,1838,2010,5.0
+Baltimore Ravens,5102,1503,2010,10.0
+Chicago Bears,5029,1441,2010,9.0
+Atlanta Falcons,5319,1694,2010,16.0
+New York Jets,4664,1454,2010,3.0
+New Orleans Saints,4900,1797,2010,4.0
+New England Patriots,5864,1728,2010,25.0
+Tampa Bay Buccaneers,5323,2107,2010,17.0
+San Diego Chargers,4345,1500,2010,1.0
+Kansas City Chiefs,5283,1764,2010,14.0
+St. Louis Rams,5388,1810,2010,19.0
+Cleveland Browns,5601,2070,2010,22.0
+Miami Dolphins,4949,1601,2010,6.0
+Tennessee Titans,5883,1851,2010,26.0
+San Francisco 49ers,5244,1547,2010,13.0
+New York Giants,4990,1620,2010,7.0
+Minnesota Vikings,5002,1635,2010,8.0
+Detroit Lions,5497,1999,2010,21.0
+Oakland Raiders,5165,2138,2010,11.0
+Philadelphia Eagles,5235,1766,2010,12.0
+Washington Redskins,6228,2041,2010,31.0
+Indianapolis Colts,5465,2032,2010,20.0
+Cincinnati Bengals,5312,1843,2010,15.0
+Seattle Seahawks,5897,1903,2010,27.0
+Carolina Panthers,5374,1981,2010,18.0
+Jacksonville Jaguars,5949,1945,2010,28.0
+Buffalo Bills,5786,2714,2010,24.0
+Houston Texans,6031,1751,2010,30.0
+Arizona Cardinals,5977,2323,2010,29.0
+Dallas Cowboys,5628,1734,2010,23.0
+Denver Broncos,6253,2473,2010,32.0

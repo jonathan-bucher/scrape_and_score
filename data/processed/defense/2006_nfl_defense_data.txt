@@ -1,0 +1,33 @@
+Tm,PassYds,RushYds,Year,def_rk
+Baltimore Ravens,4225,1214,2006,1.0
+New England Patriots,4710,1507,2006,6.0
+Chicago Bears,4706,1590,2006,5.0
+Jacksonville Jaguars,4538,1460,2006,2.0
+Miami Dolphins,4625,1618,2006,4.0
+New York Jets,5306,2084,2006,20.0
+San Diego Chargers,4825,1613,2006,10.0
+Carolina Panthers,4737,1737,2006,7.0
+Denver Broncos,5220,1813,2006,14.0
+Buffalo Bills,5273,2254,2006,18.0
+Pittsburgh Steelers,4805,1412,2006,9.0
+Kansas City Chiefs,5262,1928,2006,16.0
+New Orleans Saints,4917,2063,2006,11.0
+Minnesota Vikings,4803,985,2006,8.0
+Atlanta Falcons,5325,1657,2006,22.0
+Philadelphia Eagles,5249,2182,2006,15.0
+Cincinnati Bengals,5681,1863,2006,30.0
+Oakland Raiders,4557,2144,2006,3.0
+Seattle Seahawks,5285,2029,2006,19.0
+Dallas Cowboys,5165,1659,2006,13.0
+Tampa Bay Buccaneers,5271,1917,2006,17.0
+Cleveland Browns,5515,2273,2006,27.0
+Indianapolis Colts,5316,2768,2006,21.0
+New York Giants,5479,1830,2006,25.0
+Green Bay Packers,5134,1825,2006,12.0
+Houston Texans,5400,1956,2006,24.0
+Washington Redskins,5688,2197,2006,31.0
+St. Louis Rams,5362,2327,2006,23.0
+Arizona Cardinals,5591,1897,2006,29.0
+Detroit Lions,5530,2010,2006,28.0
+Tennessee Titans,5915,2313,2006,32.0
+San Francisco 49ers,5507,1936,2006,26.0

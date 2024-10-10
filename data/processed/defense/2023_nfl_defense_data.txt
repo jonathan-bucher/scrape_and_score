@@ -1,0 +1,33 @@
+Tm,PassYds,RushYds,Year,def_rk
+Baltimore Ravens,5123,1860,2023,6.0
+Kansas City Chiefs,4926,1925,2023,2.0
+San Francisco 49ers,5167,1525,2023,8.0
+Buffalo Bills,5222,1880,2023,9.0
+Dallas Cowboys,5095,1910,2023,5.0
+Pittsburgh Steelers,5816,1956,2023,21.0
+Tampa Bay Buccaneers,5852,1620,2023,23.0
+New Orleans Saints,5562,2038,2023,13.0
+Las Vegas Raiders,5625,2015,2023,15.0
+Green Bay Packers,5696,2181,2023,17.0
+Houston Texans,5622,1643,2023,14.0
+New York Jets,4969,2108,2023,3.0
+Minnesota Vikings,5664,1678,2023,16.0
+Cleveland Browns,4593,1793,2023,1.0
+New England Patriots,5127,1584,2023,7.0
+Tennessee Titans,5697,1831,2023,18.0
+Jacksonville Jaguars,5828,1752,2023,22.0
+Atlanta Falcons,5458,2009,2023,11.0
+Los Angeles Rams,5744,1816,2023,20.0
+Chicago Bears,5511,1468,2023,12.0
+Cincinnati Bengals,6368,2145,2023,31.0
+Miami Dolphins,5411,1650,2023,10.0
+Detroit Lions,5714,1509,2023,19.0
+Los Angeles Chargers,6170,1924,2023,28.0
+Seattle Seahawks,6313,2352,2023,30.0
+New York Giants,6149,2251,2023,27.0
+Denver Broncos,6303,2331,2023,29.0
+Indianapolis Colts,5947,2105,2023,24.0
+Carolina Panthers,4997,2081,2023,4.0
+Philadelphia Eagles,6054,1758,2023,26.0
+Arizona Cardinals,6047,2434,2023,25.0
+Washington Commanders,6612,2155,2023,32.0

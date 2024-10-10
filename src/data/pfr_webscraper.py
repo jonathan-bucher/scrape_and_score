@@ -1,5 +1,5 @@
 # pro football reference allows webscraping for team defensive data by season. We scrape defense data back to 2005,
-# and cache this data to csv files, after proper formatting. 
+# and cache this data to csv files, before and after proper formatting. 
 # understandably, pro football reference does not condone scraping of player game logs, 
 # but still generously offers manual export options for these tables
 
@@ -10,8 +10,8 @@ from bs4 import BeautifulSoup
 import os
 import time
 
-import assign_rankings as ar
-import column_transforms as ct
+import src.features.assign_rankings as ar
+import src.data.column_transforms as ct
 
 def scrape_pfr_data(year: int):
 
@@ -57,12 +57,15 @@ def scrape_pfr_data(year: int):
     df = pd.DataFrame(rows, columns = subheaders)
     df.replace("", np.nan, inplace = True)
 
+    # cache raw data
+    df.to_csv(rf"C:\Users\jonat\OneDrive\projects\scrape_and_score\data\raw\defense\{year}_nfl_defense_data.txt", index = False)
+
     # clean the data, and rank it
     df = ct.defense_column_transform(df.copy(), year)
     df = ar.assign_rankings(df.copy(), 'PassYds')
 
-    # cache to a csv
-    df.to_csv(rf"C:\Users\jonat\Python\football_data\defense\{year}_nfl_defense_data.txt", index = False)
+    # cache processed data
+    df.to_csv(rf"C:\Users\jonat\OneDrive\projects\scrape_and_score\data\processed\defense\{year}_nfl_defense_data.txt", index = False)
 
     return df
 
@@ -75,11 +78,11 @@ for year in years:
 
 # compile data into a central dataframe
 
-folder_path = r"C:\Users\jonat\Python\football_data\defense"
+folder_path = r"C:\Users\jonat\OneDrive\projects\scrape_and_score\data\raw\defense"
 
 dfs = []
 
-# Loop through each file in the folder
+# loop through each file in the folder
 for file_name in os.listdir(folder_path):
 
     file_path = os.path.join(folder_path, file_name)
@@ -87,9 +90,9 @@ for file_name in os.listdir(folder_path):
         
     dfs.append(df)
 
-# Concatenate all the dataframes into one central dataframe
+# concatenate all the dataframes into one central dataframe
 central_df = pd.concat(dfs, ignore_index=True)
 
 # save the central dataframe to a new csv
-central_df.to_csv(r'C:\Users\jonat\Python\football_data\05_24_defense.txt', index=False)
+central_df.to_csv(r"C:\Users\jonat\OneDrive\projects\scrape_and_score\data\processed\05_24_defense.tx", index=False)
 

@@ -1,0 +1,33 @@
+Tm,PassYds,RushYds,Year,def_rk
+Indianapolis Colts,4475,1711,2007,3.0
+Pittsburgh Steelers,4262,1438,2007,1.0
+Tampa Bay Buccaneers,4451,1726,2007,2.0
+New England Patriots,4613,1572,2007,4.0
+San Diego Chargers,5124,1712,2007,14.0
+Seattle Seahawks,5149,1644,2007,15.0
+Green Bay Packers,5013,1647,2007,11.0
+Tennessee Titans,4665,1478,2007,5.0
+Philadelphia Eagles,4982,1533,2007,10.0
+Jacksonville Jaguars,5021,1605,2007,12.0
+Washington Redskins,4884,1460,2007,8.0
+Minnesota Vikings,5410,1185,2007,20.0
+Dallas Cowboys,4922,1513,2007,9.0
+Kansas City Chiefs,5111,2089,2007,13.0
+Carolina Panthers,5197,1771,2007,16.0
+Chicago Bears,5675,1967,2007,28.0
+New York Giants,4880,1563,2007,7.0
+Buffalo Bills,5807,1993,2007,31.0
+New York Jets,5310,2156,2007,18.0
+San Francisco 49ers,5539,1896,2007,25.0
+Cleveland Browns,5753,2072,2007,30.0
+Houston Texans,5507,1825,2007,24.0
+Baltimore Ravens,4825,1268,2007,6.0
+Cincinnati Bengals,5580,1893,2007,27.0
+New Orleans Saints,5570,1646,2007,26.0
+Oakland Raiders,5466,2334,2007,22.0
+Arizona Cardinals,5283,1567,2007,17.0
+Denver Broncos,5376,2282,2007,19.0
+Atlanta Falcons,5688,2033,2007,29.0
+Miami Dolphins,5475,2456,2007,23.0
+St. Louis Rams,5457,1844,2007,21.0
+Detroit Lions,6042,1911,2007,32.0

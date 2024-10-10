@@ -1,0 +1,33 @@
+Tm,PassYds,RushYds,Year,def_rk
+Seattle Seahawks,4274,1304,2014,1.0
+Kansas City Chiefs,5288,2036,2014,7.0
+Detroit Lions,4815,1109,2014,2.0
+Buffalo Bills,4995,1703,2014,4.0
+Arizona Cardinals,5891,1739,2014,24.0
+Baltimore Ravens,5391,1412,2014,8.0
+Houston Texans,5571,1681,2014,16.0
+New England Patriots,5506,1669,2014,13.0
+Cleveland Browns,5857,2265,2014,23.0
+San Francisco 49ers,5143,1612,2014,5.0
+Minnesota Vikings,5515,1943,2014,14.0
+Cincinnati Bengals,5749,1861,2014,22.0
+San Diego Chargers,5413,1986,2014,9.0
+Green Bay Packers,5542,1919,2014,15.0
+Dallas Cowboys,5681,1650,2014,19.0
+Denver Broncos,4883,1276,2014,3.0
+St. Louis Rams,5626,1765,2014,17.0
+Pittsburgh Steelers,5654,1605,2014,18.0
+Indianapolis Colts,5483,1814,2014,11.0
+Miami Dolphins,5494,1937,2014,12.0
+Carolina Panthers,5437,1792,2014,10.0
+Philadelphia Eagles,6009,1771,2014,28.0
+New York Giants,6012,2162,2014,29.0
+New York Jets,5235,1489,2014,6.0
+Tampa Bay Buccaneers,5903,1819,2014,25.0
+Jacksonville Jaguars,5932,2033,2014,26.0
+Atlanta Falcons,6372,1894,2014,32.0
+New Orleans Saints,6144,2125,2014,31.0
+Washington Redskins,5712,1722,2014,20.0
+Tennessee Titans,5968,2195,2014,27.0
+Chicago Bears,6033,1803,2014,30.0
+Oakland Raiders,5721,1911,2014,21.0

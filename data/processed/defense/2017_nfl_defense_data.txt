@@ -1,0 +1,33 @@
+Tm,PassYds,RushYds,Year,def_rk
+Minnesota Vikings,4415,1337,2017,1.0
+Jacksonville Jaguars,4578,1860,2017,2.0
+Los Angeles Chargers,5254,2098,2017,15.0
+Philadelphia Eagles,4904,1267,2017,4.0
+New England Patriots,5856,1836,2017,29.0
+Baltimore Ravens,5201,1780,2017,12.0
+Pittsburgh Steelers,4910,1693,2017,5.0
+Atlanta Falcons,5094,1665,2017,9.0
+Chicago Bears,5106,1730,2017,10.0
+New Orleans Saints,5384,1787,2017,17.0
+Carolina Panthers,5074,1409,2017,7.0
+Los Angeles Rams,5432,1957,2017,19.0
+Dallas Cowboys,5089,1664,2017,8.0
+Seattle Seahawks,5171,1824,2017,11.0
+Kansas City Chiefs,5842,1890,2017,28.0
+Cincinnati Bengals,5425,2046,2017,18.0
+Tennessee Titans,5248,1420,2017,13.0
+Buffalo Bills,5682,1994,2017,26.0
+Arizona Cardinals,4973,1432,2017,6.0
+Oakland Raiders,5601,1743,2017,23.0
+Detroit Lions,5692,1800,2017,27.0
+New York Jets,5636,1887,2017,25.0
+Denver Broncos,4640,1430,2017,3.0
+Tampa Bay Buccaneers,6049,1880,2017,32.0
+San Francisco 49ers,5625,1861,2017,24.0
+Green Bay Packers,5582,1793,2017,22.0
+New York Giants,5971,1933,2017,31.0
+Washington Redskins,5566,2146,2017,21.0
+Miami Dolphins,5371,1768,2017,16.0
+Indianapolis Colts,5873,1927,2017,30.0
+Cleveland Browns,5250,1566,2017,14.0
+Houston Texans,5546,1747,2017,20.0

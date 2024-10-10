@@ -1,0 +1,33 @@
+Tm,PassYds,RushYds,Year,def_rk
+Pittsburgh Steelers,4348,1597,2011,1.0
+San Francisco 49ers,4931,1236,2011,4.0
+Baltimore Ravens,4622,1482,2011,3.0
+Houston Texans,4571,1536,2011,2.0
+Cleveland Browns,5318,2359,2011,10.0
+Miami Dolphins,5522,1530,2011,15.0
+Seattle Seahawks,5315,1797,2011,9.0
+Tennessee Titans,5682,2053,2011,18.0
+Cincinnati Bengals,5060,1675,2011,7.0
+Philadelphia Eagles,5198,1801,2011,8.0
+Jacksonville Jaguars,5008,1667,2011,6.0
+Kansas City Chiefs,5333,2112,2011,11.0
+New Orleans Saints,5895,1738,2011,24.0
+Chicago Bears,5607,1542,2011,17.0
+New England Patriots,6577,1874,2011,31.0
+Dallas Cowboys,5491,1585,2011,14.0
+Arizona Cardinals,5682,1986,2011,18.0
+Atlanta Falcons,5338,1552,2011,12.0
+Green Bay Packers,6585,1789,2011,32.0
+New York Jets,4993,1777,2011,5.0
+Washington Redskins,5437,1884,2011,13.0
+San Diego Chargers,5546,1955,2011,16.0
+Detroit Lions,5881,2050,2011,23.0
+Denver Broncos,5725,2021,2011,20.0
+New York Giants,6022,1940,2011,27.0
+St. Louis Rams,5734,2433,2011,22.0
+Carolina Panthers,6042,2093,2011,28.0
+Indianapolis Colts,5935,2303,2011,25.0
+Oakland Raiders,6201,2178,2011,29.0
+Buffalo Bills,5938,2224,2011,26.0
+Minnesota Vikings,5731,1712,2011,21.0
+Tampa Bay Buccaneers,6311,2497,2011,30.0

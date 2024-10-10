@@ -1,0 +1,33 @@
+Tm,PassYds,RushYds,Year,def_rk
+New England Patriots,4414,1528,2019,1.0
+Buffalo Bills,4772,1649,2019,3.0
+Baltimore Ravens,4809,1494,2019,4.0
+Chicago Bears,5186,1632,2019,8.0
+Minnesota Vikings,5465,1728,2019,14.0
+Pittsburgh Steelers,4866,1753,2019,5.0
+Kansas City Chiefs,5594,2051,2019,17.0
+San Francisco 49ers,4509,1802,2019,2.0
+Green Bay Packers,5642,1921,2019,18.0
+Denver Broncos,5392,1783,2019,12.0
+Dallas Cowboys,5232,1656,2019,9.0
+Tennessee Titans,5752,1672,2019,21.0
+New Orleans Saints,5329,1461,2019,11.0
+Los Angeles Chargers,5009,1805,2019,6.0
+Philadelphia Eagles,5307,1442,2019,10.0
+New York Jets,5170,1391,2019,7.0
+Los Angeles Rams,5434,1809,2019,13.0
+Indianapolis Colts,5549,1567,2019,16.0
+Houston Texans,6213,1937,2019,28.0
+Cleveland Browns,5785,2315,2019,22.0
+Jacksonville Jaguars,6007,2229,2019,24.0
+Seattle Seahawks,6106,1883,2019,26.0
+Atlanta Falcons,5693,1775,2019,20.0
+Oakland Raiders,5677,1570,2019,19.0
+Cincinnati Bengals,6299,2382,2019,29.0
+Detroit Lions,6406,1855,2019,31.0
+Washington Redskins,6162,2339,2019,27.0
+Arizona Cardinals,6432,1922,2019,32.0
+Tampa Bay Buccaneers,5503,1181,2019,15.0
+New York Giants,6037,1812,2019,25.0
+Carolina Panthers,5992,2296,2019,23.0
+Miami Dolphins,6364,2166,2019,30.0

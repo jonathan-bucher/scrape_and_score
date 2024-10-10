@@ -1,0 +1,33 @@
+Tm,PassYds,RushYds,Year,def_rk
+Chicago Bears,4509,1637,2005,2.0
+Indianapolis Colts,4913,1762,2005,11.0
+Pittsburgh Steelers,4544,1376,2005,4.0
+Denver Broncos,5006,1363,2005,15.0
+Carolina Panthers,4522,1465,2005,3.0
+Jacksonville Jaguars,4655,1709,2005,6.0
+Seattle Seahawks,5069,1510,2005,16.0
+Tampa Bay Buccaneers,4444,1515,2005,1.0
+Washington Redskins,4767,1686,2005,9.0
+Baltimore Ravens,4549,1591,2005,5.0
+Cleveland Browns,5069,2202,2005,16.0
+Dallas Cowboys,4814,1731,2005,10.0
+San Diego Chargers,4948,1349,2005,13.0
+New York Giants,5240,1656,2005,24.0
+Miami Dolphins,5078,1771,2005,18.0
+Kansas City Chiefs,5249,1570,2005,25.0
+New England Patriots,5283,1580,2005,26.0
+Atlanta Falcons,5200,2063,2005,22.0
+Minnesota Vikings,5173,1841,2005,21.0
+Green Bay Packers,4690,2010,2005,7.0
+Detroit Lions,5158,2040,2005,20.0
+Cincinnati Bengals,5419,1850,2005,28.0
+New York Jets,4940,2185,2005,12.0
+Buffalo Bills,5496,2205,2005,29.0
+Oakland Raiders,5292,2049,2005,27.0
+Arizona Cardinals,4729,1632,2005,8.0
+Philadelphia Eagles,5206,1883,2005,23.0
+New Orleans Saints,4994,2145,2005,14.0
+Tennessee Titans,5110,1894,2005,19.0
+San Francisco 49ers,6259,1832,2005,32.0
+St. Louis Rams,5602,2178,2005,30.0
+Houston Texans,5824,2303,2005,31.0
