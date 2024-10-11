@@ -4,3 +4,4 @@ pytest.ini
 __pycache__
 setup.py
 __init__.py
+scrape_and_score.egg-info

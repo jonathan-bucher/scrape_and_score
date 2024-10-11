@@ -99,17 +99,21 @@ def rb_column_transform(df):
     return df
 
 
-def format(df, position: str):
+def format(df, position: str, year = False):
     """
     Formats and cleans a pro football reference dataframe
 
     Args:
         df: a pandas dataframe containing the data
         position: a string indicating the position of the player
+        year: required argument for def_column_transforms
 
     Returns:
         df: a formatted and cleaned pandas dataframe 
     """
+
+    # add in a started parameter for QB and RB. 
+    # add in a name parameter
 
     # keep only relevant data for each position
     if position == 'RB':
@@ -119,7 +123,8 @@ def format(df, position: str):
         df = qb_column_transform(df)
 
     elif position == 'DEF':
-        df = defense_column_transform(df, 'PassYds')
+
+        df = defense_column_transform(df, year)
         return df
 
     # turn home into a boolean value
