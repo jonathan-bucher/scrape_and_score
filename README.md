@@ -13,9 +13,13 @@ The aim of this project is to detect when quarterback passing yard projections o
 ## Project Structure
 
 ├── data            # Raw and processed data
+
 ├── notebooks       # Jupyter notebooks for data exploration
+
 ├── src             # Python scripts for data processing, feature engineering, and statistical functions
+
 ├── tests           # Unit tests
+
 └── README.md       # Project documentation
 
 ## Data
