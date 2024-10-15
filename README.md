@@ -1,7 +1,7 @@
 # Scrape and Score
 
 ## Overview 
-The aim of this project is to detect when quarterback passing yard projections on prop bet markets are overfit to recent game data. Bayesian analysis is used to determine whether recent game data justifies projections significantly higher, or lower than a quarterbacks career average. 
+The aim of this project is to detect when quarterback passing yard projections on prop bet markets are overfit to recent game data. Bayesian analysis is used to determine whether recent game data justifies projections significantly higher, or lower than a quarterbacks career average, or if public sentiment around a player has led to innacurately priced lines. 
 
 ## Table of Contents
 -[Overview](#overview)
