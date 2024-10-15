@@ -5,7 +5,9 @@ The aim of this project is to detect when quarterback passing yard projections o
 
 ## Table of Contents
 -[Overview](#overview)
+
 -[Project Structure](#project-structure)
+
 -[Data](#data)
 
 ## Project Structure
