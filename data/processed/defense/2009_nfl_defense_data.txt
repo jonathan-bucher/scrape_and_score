@@ -1,33 +1,33 @@
 Tm,PassYds,RushYds,Year,def_rk
-New York Jets,4037,1578,2009,1.0
-Dallas Cowboys,5054,1448,2009,9.0
-Baltimore Ravens,4808,1492,2009,3.0
-San Francisco 49ers,5222,1552,2009,15.0
-New England Patriots,5123,1768,2009,11.0
-Cincinnati Bengals,4822,1573,2009,4.0
-Green Bay Packers,4551,1333,2009,2.0
-Indianapolis Colts,5427,2024,2009,18.0
-Carolina Panthers,5053,1997,2009,8.0
-Minnesota Vikings,4888,1394,2009,6.0
-San Diego Chargers,5232,1884,2009,16.0
-Denver Broncos,5040,2059,2009,7.0
-Pittsburgh Steelers,4885,1438,2009,5.0
-Atlanta Falcons,5582,1711,2009,21.0
-Arizona Cardinals,5543,1804,2009,20.0
-Buffalo Bills,5449,2501,2009,19.0
-Houston Texans,5198,1711,2009,13.0
-Washington Redskins,5115,1799,2009,10.0
-Philadelphia Eagles,5137,1675,2009,12.0
-New Orleans Saints,5724,1955,2009,25.0
-Cleveland Browns,6229,2314,2009,31.0
-Chicago Bears,5404,2022,2009,17.0
-Oakland Raiders,5791,2488,2009,26.0
-Jacksonville Jaguars,5637,1863,2009,23.0
-Miami Dolphins,5589,1835,2009,22.0
-Seattle Seahawks,5703,1776,2009,24.0
-Tampa Bay Buccaneers,5849,2531,2009,27.0
-Tennessee Titans,5850,1711,2009,28.0
-Kansas City Chiefs,6211,2504,2009,30.0
-New York Giants,5198,1773,2009,13.0
-St. Louis Rams,5965,2201,2009,29.0
-Detroit Lions,6274,2025,2009,32.0
+New York Jets,2459,1578,2009,1.0
+Dallas Cowboys,3606,1448,2009,20.0
+Baltimore Ravens,3316,1492,2009,8.0
+San Francisco 49ers,3670,1552,2009,21.0
+New England Patriots,3355,1768,2009,12.0
+Cincinnati Bengals,3249,1573,2009,6.0
+Green Bay Packers,3218,1333,2009,5.0
+Indianapolis Colts,3403,2024,2009,14.0
+Carolina Panthers,3056,1997,2009,4.0
+Minnesota Vikings,3494,1394,2009,19.0
+San Diego Chargers,3348,1884,2009,11.0
+Denver Broncos,2981,2059,2009,3.0
+Pittsburgh Steelers,3447,1438,2009,16.0
+Atlanta Falcons,3871,1711,2009,28.0
+Arizona Cardinals,3739,1804,2009,23.0
+Buffalo Bills,2948,2501,2009,2.0
+Houston Texans,3487,1711,2009,18.0
+Washington Redskins,3316,1799,2009,8.0
+Philadelphia Eagles,3462,1675,2009,17.0
+New Orleans Saints,3769,1955,2009,26.0
+Cleveland Browns,3915,2314,2009,29.0
+Chicago Bears,3382,2022,2009,13.0
+Oakland Raiders,3303,2488,2009,7.0
+Jacksonville Jaguars,3774,1863,2009,27.0
+Miami Dolphins,3754,1835,2009,24.0
+Seattle Seahawks,3927,1776,2009,30.0
+Tampa Bay Buccaneers,3318,2531,2009,10.0
+Tennessee Titans,4139,1711,2009,31.0
+Kansas City Chiefs,3707,2504,2009,22.0
+New York Giants,3425,1773,2009,15.0
+St. Louis Rams,3764,2201,2009,25.0
+Detroit Lions,4249,2025,2009,32.0

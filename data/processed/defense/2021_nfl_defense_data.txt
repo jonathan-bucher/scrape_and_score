@@ -1,33 +1,33 @@
 Tm,PassYds,RushYds,Year,def_rk
-Buffalo Bills,4637,1866,2021,1.0
-New England Patriots,5284,2103,2021,4.0
-Denver Broncos,5544,1892,2021,8.0
-New Orleans Saints,5410,1589,2021,7.0
-Tampa Bay Buccaneers,5635,1573,2021,13.0
-Tennessee Titans,5607,1438,2021,12.0
-Dallas Cowboys,5967,1918,2021,19.0
-Kansas City Chiefs,6272,1999,2021,27.0
-San Francisco 49ers,5270,1760,2021,3.0
-Indianapolis Colts,5834,1854,2021,16.0
-Arizona Cardinals,5597,1952,2021,11.0
-Seattle Seahawks,6445,1932,2021,28.0
-Green Bay Packers,5579,1855,2021,9.0
-Cleveland Browns,5296,1857,2021,5.0
-Los Angeles Rams,5863,1754,2021,17.0
-Miami Dolphins,5738,1867,2021,15.0
-Cincinnati Bengals,5964,1742,2021,18.0
-Philadelphia Eagles,5590,1834,2021,10.0
-Baltimore Ravens,6178,1436,2021,25.0
-Pittsburgh Steelers,6139,2483,2021,24.0
-Carolina Panthers,5201,1935,2021,2.0
-Chicago Bears,5384,2127,2021,6.0
-New York Giants,6032,2193,2021,21.0
-Minnesota Vikings,6522,2222,2021,30.0
-Washington Football Team,6108,1775,2021,22.0
-Las Vegas Raiders,5732,1943,2021,14.0
-Houston Texans,6535,2418,2021,31.0
-Jacksonville Jaguars,6002,2127,2021,20.0
-Atlanta Falcons,6194,2242,2021,26.0
-Los Angeles Chargers,6122,2361,2021,23.0
-Detroit Lions,6456,2296,2021,29.0
-New York Jets,6760,2351,2021,32.0
+Buffalo Bills,2771,1866,2021,1.0
+New England Patriots,3181,2103,2021,2.0
+Denver Broncos,3652,1892,2021,8.0
+New Orleans Saints,3821,1589,2021,14.0
+Tampa Bay Buccaneers,4062,1573,2021,21.0
+Tennessee Titans,4169,1438,2021,25.0
+Dallas Cowboys,4049,1918,2021,20.0
+Kansas City Chiefs,4273,1999,2021,27.0
+San Francisco 49ers,3510,1760,2021,6.0
+Indianapolis Colts,3980,1854,2021,19.0
+Arizona Cardinals,3645,1952,2021,7.0
+Seattle Seahawks,4513,1932,2021,31.0
+Green Bay Packers,3724,1855,2021,10.0
+Cleveland Browns,3439,1857,2021,5.0
+Los Angeles Rams,4109,1754,2021,22.0
+Miami Dolphins,3871,1867,2021,16.0
+Cincinnati Bengals,4222,1742,2021,26.0
+Philadelphia Eagles,3756,1834,2021,11.0
+Baltimore Ravens,4742,1436,2021,32.0
+Pittsburgh Steelers,3656,2483,2021,9.0
+Carolina Panthers,3266,1935,2021,4.0
+Chicago Bears,3257,2127,2021,3.0
+New York Giants,3839,2193,2021,15.0
+Minnesota Vikings,4300,2222,2021,28.0
+Washington Football Team,4333,1775,2021,29.0
+Las Vegas Raiders,3789,1943,2021,13.0
+Houston Texans,4117,2418,2021,23.0
+Jacksonville Jaguars,3875,2127,2021,17.0
+Atlanta Falcons,3952,2242,2021,18.0
+Los Angeles Chargers,3761,2361,2021,12.0
+Detroit Lions,4160,2296,2021,24.0
+New York Jets,4409,2351,2021,30.0

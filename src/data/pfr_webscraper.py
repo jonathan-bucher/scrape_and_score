@@ -78,7 +78,7 @@ for year in years:
 
 # compile data into a central dataframe
 
-folder_path = r"C:\Users\jonat\OneDrive\projects\scrape_and_score\data\raw\defense"
+folder_path = r"C:\Users\jonat\OneDrive\projects\scrape_and_score\data\processed\defense"
 
 dfs = []
 
@@ -94,5 +94,5 @@ for file_name in os.listdir(folder_path):
 central_df = pd.concat(dfs, ignore_index=True)
 
 # save the central dataframe to a new csv
-central_df.to_csv(r"C:\Users\jonat\OneDrive\projects\scrape_and_score\data\processed\05_24_defense.tx", index=False)
+central_df.to_csv(r"C:\Users\jonat\OneDrive\projects\scrape_and_score\data\processed\all_defense.txt", index=False)
 

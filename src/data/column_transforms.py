@@ -18,8 +18,8 @@ def defense_column_transform(df, year: int):
     keeps only the relevant columns, and renames for clarity
     """
 
-    df = df[['Tm', 'Yds', 'Yds.4']].copy()
-    df.rename(columns = {'Yds': 'PassYds', 'Yds.4': 'RushYds'}, inplace = True)
+    df = df[['Tm', 'Yds.1', 'Yds.4']].copy()
+    df.rename(columns = {'Yds.1': 'PassYds', 'Yds.4': 'RushYds'}, inplace = True)
     df['Year'] = year
 
     if df.isnull().values.any():

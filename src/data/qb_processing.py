@@ -8,7 +8,7 @@ import src.data.column_transforms as ct
 import src.features.assign_rankings as ar
 
 folder_path = r"C:\Users\jonat\OneDrive\projects\scrape_and_score\data\raw\quarterbacks"
-all_defenses = pd.read_csv(r"C:\Users\jonat\OneDrive\projects\scrape_and_score\data\processed\05_24_defense.txt")
+all_defenses = pd.read_csv(r"C:\Users\jonat\OneDrive\projects\scrape_and_score\data\processed\all_defense.txt")
 
 dfs = []
 

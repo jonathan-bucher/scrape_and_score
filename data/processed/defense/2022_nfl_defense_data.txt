@@ -1,33 +1,33 @@
 Tm,PassYds,RushYds,Year,def_rk
-San Francisco 49ers,5110,1321,2022,2.0
-Buffalo Bills,5106,1673,2022,1.0
-Baltimore Ravens,5513,1566,2022,10.0
-New York Jets,5288,2068,2022,5.0
-Cincinnati Bengals,5371,1706,2022,7.0
-Dallas Cowboys,5613,2198,2022,13.0
-Washington Commanders,5178,1926,2022,4.0
-Philadelphia Eagles,5125,2068,2022,3.0
-New Orleans Saints,5352,2218,2022,6.0
-Pittsburgh Steelers,5617,1838,2022,14.0
-New England Patriots,5474,1793,2022,9.0
-Jacksonville Jaguars,6006,1951,2022,24.0
-Tampa Bay Buccaneers,5513,2052,2022,10.0
-Denver Broncos,5440,1866,2022,8.0
-Tennessee Titans,5978,1307,2022,23.0
-Kansas City Chiefs,5579,1823,2022,12.0
-Green Bay Packers,5721,2372,2022,17.0
-New York Giants,6089,2451,2022,25.0
-Carolina Panthers,5953,2085,2022,22.0
-Cleveland Browns,5631,2295,2022,15.0
-Los Angeles Chargers,5884,2478,2022,20.0
-Los Angeles Rams,5798,1956,2022,19.0
-Atlanta Falcons,6156,2214,2022,27.0
-Miami Dolphins,5743,1751,2022,18.0
-Seattle Seahawks,6149,2554,2022,26.0
-Las Vegas Raiders,6216,2087,2022,28.0
-Houston Texans,6452,2894,2022,30.0
-Minnesota Vikings,6608,2093,2022,31.0
-Detroit Lions,6670,2491,2022,32.0
-Indianapolis Colts,5678,2109,2022,16.0
-Arizona Cardinals,5931,2016,2022,21.0
-Chicago Bears,6390,2674,2022,29.0
+San Francisco 49ers,3789,1321,2022,21.0
+Buffalo Bills,3433,1673,2022,9.0
+Baltimore Ravens,3947,1566,2022,26.0
+New York Jets,3220,2068,2022,3.0
+Cincinnati Bengals,3665,1706,2022,16.0
+Dallas Cowboys,3415,2198,2022,8.0
+Washington Commanders,3252,1926,2022,4.0
+Philadelphia Eagles,3057,2068,2022,1.0
+New Orleans Saints,3134,2218,2022,2.0
+Pittsburgh Steelers,3779,1838,2022,20.0
+New England Patriots,3681,1793,2022,17.0
+Jacksonville Jaguars,4055,1951,2022,28.0
+Tampa Bay Buccaneers,3461,2052,2022,10.0
+Denver Broncos,3574,1866,2022,13.0
+Tennessee Titans,4671,1307,2022,32.0
+Kansas City Chiefs,3756,1823,2022,19.0
+Green Bay Packers,3349,2372,2022,6.0
+New York Giants,3638,2451,2022,15.0
+Carolina Panthers,3868,2085,2022,23.0
+Cleveland Browns,3336,2295,2022,5.0
+Los Angeles Chargers,3406,2478,2022,7.0
+Los Angeles Rams,3842,1956,2022,22.0
+Atlanta Falcons,3942,2214,2022,25.0
+Miami Dolphins,3992,1751,2022,27.0
+Seattle Seahawks,3595,2554,2022,14.0
+Las Vegas Raiders,4129,2087,2022,29.0
+Houston Texans,3558,2894,2022,11.0
+Minnesota Vikings,4515,2093,2022,31.0
+Detroit Lions,4179,2491,2022,30.0
+Indianapolis Colts,3569,2109,2022,12.0
+Arizona Cardinals,3915,2016,2022,24.0
+Chicago Bears,3716,2674,2022,18.0

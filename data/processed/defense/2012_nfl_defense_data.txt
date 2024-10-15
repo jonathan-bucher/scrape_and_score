@@ -1,33 +1,33 @@
 Tm,PassYds,RushYds,Year,def_rk
-Seattle Seahawks,4899,1649,2012,4.0
-San Francisco 49ers,4710,1507,2012,3.0
-Chicago Bears,5050,1627,2012,5.0
-Denver Broncos,4652,1458,2012,2.0
-Atlanta Falcons,5849,1971,2012,24.0
-Pittsburgh Steelers,4413,1450,2012,1.0
-Miami Dolphins,5708,1734,2012,21.0
-Cincinnati Bengals,5115,1715,2012,6.0
-Houston Texans,5172,1560,2012,7.0
-New England Patriots,5972,1630,2012,25.0
-Green Bay Packers,5388,1896,2012,11.0
-Baltimore Ravens,5615,1965,2012,17.0
-New York Giants,6134,2066,2012,31.0
-Minnesota Vikings,5600,1692,2012,16.0
-St. Louis Rams,5482,1880,2012,14.0
-San Diego Chargers,5223,1542,2012,9.0
-Arizona Cardinals,5405,2192,2012,12.0
-Carolina Panthers,5329,1761,2012,10.0
-Cleveland Browns,5821,1898,2012,23.0
-New York Jets,5174,2138,2012,8.0
-Indianapolis Colts,5988,2200,2012,26.0
-Washington Redskins,6043,1532,2012,28.0
-Tampa Bay Buccaneers,6078,1320,2012,29.0
-Dallas Cowboys,5687,2003,2012,19.0
-Kansas City Chiefs,5704,2171,2012,20.0
-Buffalo Bills,5806,2333,2012,22.0
-Detroit Lions,5458,1889,2012,13.0
-Oakland Raiders,5672,1897,2012,18.0
-Philadelphia Eagles,5491,2021,2012,15.0
-Jacksonville Jaguars,6088,2256,2012,30.0
-New Orleans Saints,7042,2361,2012,32.0
-Tennessee Titans,5999,2035,2012,27.0
+Seattle Seahawks,3250,1649,2012,6.0
+San Francisco 49ers,3203,1507,2012,4.0
+Chicago Bears,3423,1627,2012,8.0
+Denver Broncos,3194,1458,2012,3.0
+Atlanta Falcons,3878,1971,2012,23.0
+Pittsburgh Steelers,2963,1450,2012,1.0
+Miami Dolphins,3974,1734,2012,27.0
+Cincinnati Bengals,3400,1715,2012,7.0
+Houston Texans,3612,1560,2012,16.0
+New England Patriots,4342,1630,2012,29.0
+Green Bay Packers,3492,1896,2012,11.0
+Baltimore Ravens,3650,1965,2012,17.0
+New York Giants,4068,2066,2012,28.0
+Minnesota Vikings,3908,1692,2012,24.0
+St. Louis Rams,3602,1880,2012,15.0
+San Diego Chargers,3681,1542,2012,18.0
+Arizona Cardinals,3213,2192,2012,5.0
+Carolina Panthers,3568,1761,2012,13.0
+Cleveland Browns,3923,1898,2012,25.0
+New York Jets,3036,2138,2012,2.0
+Indianapolis Colts,3788,2200,2012,21.0
+Washington Redskins,4511,1532,2012,30.0
+Tampa Bay Buccaneers,4758,1320,2012,32.0
+Dallas Cowboys,3684,2003,2012,19.0
+Kansas City Chiefs,3533,2171,2012,12.0
+Buffalo Bills,3473,2333,2012,10.0
+Detroit Lions,3569,1889,2012,14.0
+Oakland Raiders,3775,1897,2012,20.0
+Philadelphia Eagles,3470,2021,2012,9.0
+Jacksonville Jaguars,3832,2256,2012,22.0
+New Orleans Saints,4681,2361,2012,31.0
+Tennessee Titans,3964,2035,2012,26.0

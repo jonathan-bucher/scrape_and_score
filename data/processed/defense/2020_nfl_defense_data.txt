@@ -1,33 +1,33 @@
 Tm,PassYds,RushYds,Year,def_rk
-Los Angeles Rams,4511,1460,2020,1.0
-Baltimore Ravens,5276,1740,2020,7.0
-Pittsburgh Steelers,4893,1783,2020,3.0
-Washington Football Team,4873,1805,2020,2.0
-New Orleans Saints,4974,1502,2020,4.0
-Miami Dolphins,5886,1862,2020,20.0
-New England Patriots,5660,2103,2020,15.0
-Tampa Bay Buccaneers,5234,1289,2020,6.0
-New York Giants,5589,1782,2020,12.0
-Indianapolis Colts,5314,1448,2020,8.0
-Kansas City Chiefs,5733,1954,2020,16.0
-Arizona Cardinals,5631,2008,2020,13.0
-Green Bay Packers,5344,1805,2020,9.0
-Chicago Bears,5519,1814,2020,11.0
-Seattle Seahawks,6089,1529,2020,22.0
-Buffalo Bills,5640,1914,2020,14.0
-San Francisco 49ers,5030,1703,2020,5.0
-Carolina Panthers,5761,1936,2020,18.0
-Atlanta Falcons,6374,1677,2020,29.0
-Philadelphia Eagles,5810,2012,2020,19.0
-Cleveland Browns,5735,1773,2020,17.0
-Cincinnati Bengals,6227,2368,2020,26.0
-Los Angeles Chargers,5495,1917,2020,10.0
-Tennessee Titans,6372,1933,2020,28.0
-Denver Broncos,5887,2080,2020,21.0
-New York Jets,6201,1792,2020,24.0
-Houston Texans,6668,2564,2020,30.0
-Dallas Cowboys,6183,2541,2020,23.0
-Minnesota Vikings,6292,2151,2020,27.0
-Las Vegas Raiders,6225,2013,2020,25.0
-Jacksonville Jaguars,6683,2452,2020,31.0
-Detroit Lions,6716,2158,2020,32.0
+Los Angeles Rams,3051,1460,2020,1.0
+Baltimore Ravens,3536,1740,2020,6.0
+Pittsburgh Steelers,3110,1783,2020,3.0
+Washington Football Team,3068,1805,2020,2.0
+New Orleans Saints,3472,1502,2020,5.0
+Miami Dolphins,4024,1862,2020,23.0
+New England Patriots,3557,2103,2020,8.0
+Tampa Bay Buccaneers,3945,1289,2020,21.0
+New York Giants,3807,1782,2020,16.0
+Indianapolis Colts,3866,1448,2020,20.0
+Kansas City Chiefs,3779,1954,2020,14.0
+Arizona Cardinals,3623,2008,2020,10.0
+Green Bay Packers,3539,1805,2020,7.0
+Chicago Bears,3705,1814,2020,12.0
+Seattle Seahawks,4560,1529,2020,31.0
+Buffalo Bills,3726,1914,2020,13.0
+San Francisco 49ers,3327,1703,2020,4.0
+Carolina Panthers,3825,1936,2020,18.0
+Atlanta Falcons,4697,1677,2020,32.0
+Philadelphia Eagles,3798,2012,2020,15.0
+Cleveland Browns,3962,1773,2020,22.0
+Cincinnati Bengals,3859,2368,2020,19.0
+Los Angeles Chargers,3578,1917,2020,9.0
+Tennessee Titans,4439,1933,2020,29.0
+Denver Broncos,3807,2080,2020,16.0
+New York Jets,4409,1792,2020,28.0
+Houston Texans,4104,2564,2020,24.0
+Dallas Cowboys,3642,2541,2020,11.0
+Minnesota Vikings,4141,2151,2020,25.0
+Las Vegas Raiders,4212,2013,2020,26.0
+Jacksonville Jaguars,4231,2452,2020,27.0
+Detroit Lions,4558,2158,2020,30.0

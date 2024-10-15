@@ -17,6 +17,9 @@ def condition_indices(df, event: tuple) -> set:
         set: The set of indices where the event occured
     """
 
+    if df.isnull():
+        raise ValueError("Null values detected in the dataframe")
+
     if event[1] == 'geq':
         condition_occurs = df.index[df[event[0]] >= event[2]]
     elif event[1] == 'g':
