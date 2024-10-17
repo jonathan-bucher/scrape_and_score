@@ -6,7 +6,7 @@
 
 import pandas as pd
 
-all_defense = pd.read_csv(r"C:\Users\jonat\OneDrive\projects\scrape_and_score\data\processed\05_24_defense.txt")
+all_defense = pd.read_csv(r"C:\Users\jonat\OneDrive\projects\scrape_and_score\data\processed\all_defense.txt")
 
 # find the average value for each defense rank
 

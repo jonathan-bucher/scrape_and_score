@@ -49,12 +49,22 @@ team_abbreviation_dict = {
 def assign_rankings(df, col: str) -> list:
     """
     takes a dataframe, and appends a row with rankings for a specific column
+
     """
     ordered = sorted(list(df[col]))
+    ranks = set()
 
     for index, row in df.iterrows():
-        df.loc[index, 'def_rk'] = ordered.index(row[col]) + 1
-    
+        rank = ordered.index(row[col]) + 1
+
+        # handle duplicates
+        if rank in ranks:
+            rank += 1
+
+        df.loc[index, 'def_rk'] = rank
+
+        ranks.add(rank)
+        
     return df
 
 
