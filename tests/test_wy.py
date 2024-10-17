@@ -6,8 +6,7 @@ import pandas as pd
 from src.features.weighted_yards import *
 
 # data
-all_defense = pd.read_csv(r"C:\Users\jonat\OneDrive\projects\scrape_and_score\data\processed\05_24_defense.txt")
-
+all_defense = pd.read_csv(r"C:\Users\jonat\OneDrive\projects\scrape_and_score\data\processed\all_defense.txt")
 
 def test_rank():
     # ensure all defenses have been ranked
@@ -22,5 +21,10 @@ def test_values():
         if type(rank) != str and rank != 32:
             assert yards < rank_weights[rank + 1]
 
-# def test_overall_avg():
+def test_overall_avg():
     # overall average is the true average
+
+    assert rank_weights['overall_average'] == all_defense['PassYds'].mean()
+
+
+    

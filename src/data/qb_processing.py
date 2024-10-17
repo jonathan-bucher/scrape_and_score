@@ -18,9 +18,15 @@ for file_name in os.listdir(folder_path):
 
     file_path = os.path.join(folder_path, file_name)
     df = pd.read_csv(file_path)
-
+    
     # format the data
     df = ct.format(df, position = 'QB')
+
+    # drop values where they didn't start
+    df = df.loc[df['Started'] == True]
+
+    # drop rows with null values
+    df = df.dropna()
 
     # rank the defenses faced by passing yardage
     df = ar.qb_def_rankings(all_defenses, df)
