@@ -25,6 +25,9 @@ for file_name in os.listdir(folder_path):
     # drop values where they didn't start
     df = df.loc[df['Started'] == True]
 
+    # drop 2024
+    df = df.loc[df['Year'] != 2024]
+
     # drop rows with null values
     df = df.dropna()
 

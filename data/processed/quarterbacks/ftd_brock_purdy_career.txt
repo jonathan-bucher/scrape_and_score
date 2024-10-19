@@ -20,9 +20,3 @@
 18,31,2023,2023-12-17,15,SFO,ARI,W 45-29,False,True,25,242,4,0,0,13.0,brock purdy
 19,32,2023,2023-12-25,16,SFO,BAL,L 19-33,True,True,32,255,0,2,0,6.0,brock purdy
 20,33,2023,2023-12-31,17,SFO,WAS,W 27-10,False,True,28,230,2,4,0,32.0,brock purdy
-21,35,2024,2024-09-09,1,SFO,NYJ,W 32-19,True,True,29,231,0,11,0,,brock purdy
-22,36,2024,2024-09-15,2,SFO,MIN,L 17-23,False,True,36,319,1,12,0,,brock purdy
-23,37,2024,2024-09-22,3,SFO,LAR,L 24-27,False,True,30,292,3,41,0,,brock purdy
-24,38,2024,2024-09-29,4,SFO,NWE,W 30-13,True,True,27,288,1,11,0,,brock purdy
-25,39,2024,2024-10-06,5,SFO,ARI,L 23-24,True,True,35,244,1,33,0,,brock purdy
-26,40,2024,2024-10-10,6,SFO,SEA,W 36-24,False,True,28,255,3,19,0,,brock purdy

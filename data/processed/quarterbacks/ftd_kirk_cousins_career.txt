@@ -144,8 +144,3 @@
 142,184,2023,2023-10-15,6,MIN,CHI,W 19-13,False,True,31,181,1,-5,0,25.0,kirk cousins
 143,185,2023,2023-10-23,7,MIN,SFO,W 22-17,True,True,45,378,2,-1,0,14.0,kirk cousins
 144,186,2023,2023-10-29,8,MIN,GNB,W 24-10,False,True,31,274,2,9,0,9.0,kirk cousins
-145,196,2024,2024-09-08,1,ATL,PIT,L 10-18,True,True,26,155,1,0,0,,kirk cousins
-146,197,2024,2024-09-16,2,ATL,PHI,W 22-21,False,True,29,241,2,-1,0,,kirk cousins
-147,198,2024,2024-09-22,3,ATL,KAN,L 17-22,True,True,29,230,1,-1,0,,kirk cousins
-148,199,2024,2024-09-29,4,ATL,NOR,W 26-24,True,True,35,238,0,0,0,,kirk cousins
-149,200,2024,2024-10-03,5,ATL,TAM,W 36-30,True,True,58,509,4,0,0,,kirk cousins

@@ -51,7 +51,3 @@
 49,57,2023,2023-11-05,9,CIN,BUF,W 24-18,True,True,44,348,2,4,0,7.0,joe burrow
 50,58,2023,2023-11-12,10,CIN,HOU,L 27-30,True,True,40,347,2,20,0,23.0,joe burrow
 51,59,2023,2023-11-16,11,CIN,BAL,L 20-34,False,True,17,101,1,7,0,6.0,joe burrow
-52,67,2024,2024-09-08,1,CIN,NWE,L 10-16,True,True,29,164,0,15,0,,joe burrow
-53,68,2024,2024-09-15,2,CIN,KAN,L 25-26,False,True,36,258,2,9,0,,joe burrow
-54,69,2024,2024-09-23,3,CIN,WAS,L 33-38,True,True,38,324,3,4,0,,joe burrow
-55,70,2024,2024-09-29,4,CIN,CAR,W 34-24,False,True,31,232,2,10,0,,joe burrow

@@ -205,8 +205,3 @@
 203,240,2023,2023-12-17,15,LAR,WAS,W 28-20,True,True,33,258,2,2,0,32.0,matthew stafford
 204,241,2023,2023-12-21,16,LAR,NOR,W 30-22,True,True,34,328,2,-4,0,10.0,matthew stafford
 205,242,2023,2023-12-31,17,LAR,NYG,W 26-25,False,True,34,317,1,-1,0,19.0,matthew stafford
-206,244,2024,2024-09-08,1,LAR,DET,L 20-26,False,True,49,317,1,0,0,,matthew stafford
-207,245,2024,2024-09-15,2,LAR,ARI,L 10-41,False,True,27,216,0,0,0,,matthew stafford
-208,246,2024,2024-09-22,3,LAR,SFO,W 27-24,True,True,25,221,1,0,0,,matthew stafford
-209,247,2024,2024-09-29,4,LAR,CHI,L 18-24,False,True,29,224,0,-1,0,,matthew stafford
-210,248,2024,2024-10-06,5,LAR,GNB,L 19-24,True,True,45,260,1,0,0,,matthew stafford

@@ -49,8 +49,3 @@
 47,48,2023,2023-12-17,15,JAX,BAL,L 7-23,True,True,43,264,1,41,0,6.0,trevor lawrence
 48,49,2023,2023-12-24,16,JAX,TAM,L 12-30,False,True,29,211,1,29,0,29.0,trevor lawrence
 49,51,2023,2024-01-07,18,JAX,TEN,L 20-28,False,True,43,280,2,10,0,18.0,trevor lawrence
-50,52,2024,2024-09-08,1,JAX,MIA,L 17-20,False,True,21,162,1,8,0,,trevor lawrence
-51,53,2024,2024-09-15,2,JAX,CLE,L 13-18,True,True,30,220,0,45,0,,trevor lawrence
-52,54,2024,2024-09-23,3,JAX,BUF,L 10-47,False,True,38,178,1,3,0,,trevor lawrence
-53,55,2024,2024-09-29,4,JAX,HOU,L 20-24,False,True,33,169,2,5,0,,trevor lawrence
-54,56,2024,2024-10-06,5,JAX,IND,W 37-34,True,True,34,371,2,4,0,,trevor lawrence

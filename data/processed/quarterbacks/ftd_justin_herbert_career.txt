@@ -61,7 +61,3 @@
 59,61,2023,2023-11-26,12,LAC,BAL,L 10-20,True,True,44,217,1,47,0,6.0,justin herbert
 60,62,2023,2023-12-03,13,LAC,NWE,W 6-0,False,True,37,212,0,-5,0,11.0,justin herbert
 61,63,2023,2023-12-10,14,LAC,DEN,L 7-24,True,True,17,96,0,0,0,22.0,justin herbert
-62,68,2024,2024-09-08,1,LAC,LVR,W 22-10,True,True,26,144,1,6,0,,justin herbert
-63,69,2024,2024-09-15,2,LAC,CAR,W 26-3,False,True,20,130,2,18,0,,justin herbert
-64,70,2024,2024-09-22,3,LAC,PIT,L 10-20,False,True,18,125,1,0,0,,justin herbert
-65,71,2024,2024-09-29,4,LAC,KAN,L 10-17,True,True,27,179,1,0,0,,justin herbert

@@ -58,8 +58,3 @@
 56,70,2023,2023-10-02,4,NYG,SEA,L 3-24,True,True,34,203,0,66,0,21.0,daniel jones
 57,71,2023,2023-10-08,5,NYG,MIA,L 16-31,False,True,20,119,0,24,0,15.0,daniel jones
 58,75,2023,2023-11-05,9,NYG,LVR,L 6-30,False,True,9,25,0,9,0,12.0,daniel jones
-59,84,2024,2024-09-08,1,NYG,MIN,L 6-28,True,True,42,186,0,15,0,,daniel jones
-60,85,2024,2024-09-15,2,NYG,WAS,L 18-21,False,True,28,178,2,32,0,,daniel jones
-61,86,2024,2024-09-22,3,NYG,CLE,W 21-15,False,True,34,236,2,20,0,,daniel jones
-62,87,2024,2024-09-26,4,NYG,DAL,L 15-20,True,True,40,281,0,3,0,,daniel jones
-63,88,2024,2024-10-06,5,NYG,SEA,W 29-20,False,True,34,257,2,38,0,,daniel jones

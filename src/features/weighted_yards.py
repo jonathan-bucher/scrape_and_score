@@ -1,8 +1,4 @@
-# create an 'adjusted yards' metric for comparing quarterbacks
-
-# average yards per ranking in central df (create a dictionary)
-
-# create adjusted yards column
+# create an 'weighted yards' metric for comparing quarterbacks
 
 import pandas as pd
 
@@ -13,7 +9,7 @@ all_quarterbacks = pd.read_csv(r"C:\Users\jonat\OneDrive\projects\scrape_and_sco
 
 # define a dictionary mapping ranking to average yards allowed
 rank_weights = {}
-rank_weights['overall_average'] = all_defense['PassYds'].mean()
+rank_weights['overall_average'] = round(all_defense['PassYds'].mean(), 1)
 
 for rank in range(1, 33):
 
@@ -21,7 +17,7 @@ for rank in range(1, 33):
     weighted_all_defense = all_defense.loc[all_defense['def_rk'] == rank]
 
     # add the average yards to the defense rank
-    rank_weights[rank] = weighted_all_defense.loc[:, 'PassYds'].mean()
+    rank_weights[rank] = round(weighted_all_defense.loc[:, 'PassYds'].mean(), 1)
 
 weighted_yards = {}
 
@@ -29,12 +25,15 @@ weighted_yards = {}
 for rank, yards in rank_weights.items():
     if type(rank) != str:
 
-        weighted_yards[rank] = rank_weights['overall_average'] / yards
+        weighted_yards[rank] = round((rank_weights['overall_average'] / yards), 1)
+
+weighted_yards_df = pd.Series(weighted_yards)
 
 # create new weighted_yards column in the qb dataframe
 # map rankings to the rank weights
 all_quarterbacks['rank_weights'] = all_quarterbacks['def_rk'].map(weighted_yards)
-all_quarterbacks['weighted_yards'] = all_quarterbacks['PassYds'] * all_quarterbacks['rank_weights']
+all_quarterbacks['weighted_yards'] = round((all_quarterbacks['PassYds'] * all_quarterbacks['rank_weights']), 1)
 
+# cache the data
 all_quarterbacks.to_csv(r"C:\Users\jonat\OneDrive\projects\scrape_and_score\data\processed\all_quarterbacks_weighted.txt")
-
+weighted_yards_df.to_csv(r"C:\Users\jonat\OneDrive\projects\scrape_and_score\logging\yards_multiplier.csv")

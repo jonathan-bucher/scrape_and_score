@@ -50,5 +50,3 @@
 48,65,2023,2023-12-24,16,MIA,DAL,W 22-20,True,True,37,293,1,-2,0,5.0,tua tagovailoa
 49,66,2023,2023-12-31,17,MIA,BAL,L 19-56,False,True,38,237,2,14,0,6.0,tua tagovailoa
 50,67,2023,2024-01-07,18,MIA,BUF,L 14-21,True,True,27,173,1,7,0,7.0,tua tagovailoa
-51,68,2024,2024-09-08,1,MIA,JAX,W 20-17,True,True,37,338,1,11,0,,tua tagovailoa
-52,69,2024,2024-09-12,2,MIA,BUF,L 10-31,True,True,25,145,1,17,0,,tua tagovailoa

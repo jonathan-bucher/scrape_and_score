@@ -223,8 +223,3 @@
 221,289,2022,2023-01-01,17,GNB,MIN,W 41-17,True,True,24,159,1,2,1,31.0,aaron rodgers
 222,290,2022,2023-01-08,18,GNB,DET,L 16-20,True,True,27,205,1,10,0,30.0,aaron rodgers
 223,291,2023,2023-09-11,1,NYJ,BUF,W 22-16,True,True,1,0,0,0,0,7.0,aaron rodgers
-224,308,2024,2024-09-09,1,NYJ,SFO,L 19-32,False,True,21,167,1,-1,0,,aaron rodgers
-225,309,2024,2024-09-15,2,NYJ,TEN,W 24-17,False,True,30,176,2,1,0,,aaron rodgers
-226,310,2024,2024-09-19,3,NYJ,NWE,W 24-3,True,True,35,281,2,18,0,,aaron rodgers
-227,311,2024,2024-09-29,4,NYJ,DEN,L 9-10,True,True,42,225,0,26,0,,aaron rodgers
-228,312,2024,2024-10-06,5,NYJ,MIN,L 17-23,False,True,54,244,2,0,0,,aaron rodgers

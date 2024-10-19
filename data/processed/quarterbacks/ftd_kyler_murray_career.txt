@@ -64,8 +64,3 @@
 62,81,2023,2023-12-24,16,ARI,CHI,L 16-27,False,True,38,230,2,32,0,25.0,kyler murray
 63,82,2023,2023-12-31,17,ARI,PHI,W 35-31,False,True,31,232,3,24,0,31.0,kyler murray
 64,83,2023,2024-01-07,18,ARI,SEA,L 20-21,True,True,30,262,1,33,0,21.0,kyler murray
-65,84,2024,2024-09-08,1,ARI,BUF,L 28-34,False,True,31,162,1,57,0,,kyler murray
-66,85,2024,2024-09-15,2,ARI,LAR,W 41-10,True,True,21,266,3,59,0,,kyler murray
-67,86,2024,2024-09-22,3,ARI,DET,L 13-20,True,True,34,207,1,45,0,,kyler murray
-68,87,2024,2024-09-29,4,ARI,WAS,L 14-42,True,True,22,142,1,3,0,,kyler murray
-69,88,2024,2024-10-06,5,ARI,SFO,W 24-23,False,True,30,195,1,83,1,,kyler murray

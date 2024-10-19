@@ -17,8 +17,8 @@ def condition_indices(df, event: tuple) -> set:
         set: The set of indices where the event occured
     """
 
-    if df.isnull().any().any():
-        raise ValueError("Null values detected in the dataframe")
+    if df[event[0]].isnull().any():
+        raise ValueError(f"Null values detected in the column {event[0]}")
 
     if event[1] == 'geq':
         condition_occurs = df.index[df[event[0]] >= event[2]]
@@ -40,7 +40,7 @@ def condition_indices(df, event: tuple) -> set:
     return set(condition_occurs)
 
 
-def probability(df, event: tuple) -> float:
+def probability(df, event: tuple, null = False) -> float:
     """
     Calculate the probability of an event occuring
 
@@ -55,6 +55,9 @@ def probability(df, event: tuple) -> float:
     Returns:
         float: The probability
     """
+
+    if null != False:
+        df = df.dropna()
 
     total_count = len(df[event[0]])     # changed this from .count()
     event_count = len(condition_indices(df, event))
@@ -93,7 +96,7 @@ def joint_probability(df, events: list[tuple]) -> float:
     return joint_prob
 
     
-def conditional_probability(df, conditions: list[tuple]) -> float:
+def conditional_probability(df, conditions: list[tuple], null = False) -> float:
     """
     Calculates the probability of an event occurring given that conditions have been met.
     
@@ -108,6 +111,9 @@ def conditional_probability(df, conditions: list[tuple]) -> float:
     Returns:
         float: The conditional probability.
     """
+
+    if null != False:
+        df = df.dropna()
 
     # put in an option to print the number of rows that met the condition
     
