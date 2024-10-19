@@ -4,13 +4,13 @@
 The aim of this project is to detect when quarterback passing yard projections on prop bet markets are overfit to recent game data. Bayesian analysis is used to determine whether recent game data justifies projections significantly lower, or higher than a quarterback's career average, or if public sentiment has led to innacurately priced lines. 
 
 ## Table of Contents
--[overview](#overview)
+-[Overview](#overview)
 
--[project structure](#project-structure)
+-[Project Structure](#project-structure)
 
--[data](#data)
+-[Data](#data)
 
--[srce](#src)
+-[Src](#src)
 
 ## Project Structure
 
@@ -24,10 +24,10 @@ The aim of this project is to detect when quarterback passing yard projections o
 
 └── README.md       # Project documentation
 
-## data
+## Data
 All data for this project is sourced from pro football reference. PFR provides easily accessible, high quality data, and would be my recomendation for anyone hoping to carry out a similar project.
 
-## src
+## Src
 
 The source code for this project, subdivided into three directories, data, features, and statistics. Data was where webscraping and data formatting were handled, features contains the scripts for feature engineering, and statistics is where functions for bayesian analysis were defined. 
 
