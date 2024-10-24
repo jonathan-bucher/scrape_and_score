@@ -1,7 +1,7 @@
 # Scrape and Score
 
 ## Overview 
-The aim of this project is to detect when quarterback passing yard projections on prop bet markets are overfit to recent game data. Bayesian analysis is used to determine whether a quarterback's 2024 performance is strong enough, or weak enough, to provide evidence they have deviated from their historical averages
+The aim of this project is to detect when quarterback passing yard projections on prop bet markets are overfit to recent game data. Bayesian analysis is used to determine whether a quarterback's 2024 performance is strong enough (or weak enough) to provide evidence they have deviated from their historical averages
 
 ## Table of Contents
 -[Overview](#overview)
