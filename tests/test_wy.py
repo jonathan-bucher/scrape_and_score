@@ -28,7 +28,7 @@ def test_nulls():
     
 def test_avg():
     # overall average is correct
-    assert rank_weights['overall_average'] == round(all_defense['PassYds'].mean(), 1)
+    assert rank_weights['overall_average'] == round(all_defense['PassYds'].mean(), 3)
 
 
     

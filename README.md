@@ -14,15 +14,15 @@ The aim of this project is to detect when quarterback passing yard projections o
 
 ## Project Structure
 
-├── data            # Raw and processed data
+├── data            
 
-├── notebooks       # Jupyter notebooks for data exploration
+├── notebooks       
 
-├── src             # Python scripts for data processing, feature engineering, and statistical functions
+├── src             
 
-├── tests           # Unit tests
+├── tests           
 
-└── README.md       # Project documentation
+└── README.md       
 
 ## Data
 All data for this project is sourced from pro football reference. PFR provides easily accessible, high quality data, and would be my recomendation for anyone hoping to carry out a similar project.

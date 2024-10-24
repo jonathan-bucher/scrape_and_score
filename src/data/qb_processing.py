@@ -25,6 +25,9 @@ for file_name in os.listdir(folder_path):
     # drop values where they didn't start
     df = df.loc[df['Started'] == True]
 
+    # want to cache the 2024 data to an excel csv
+    excel_df = df.loc[df['Year'] == 2024]
+
     # drop 2024
     df = df.loc[df['Year'] != 2024]
 
@@ -48,6 +51,11 @@ for file_name in os.listdir(folder_path):
 
     # cache to processed data
     df.to_csv(fr"C:\Users\jonat\OneDrive\projects\scrape_and_score\data\processed\quarterbacks\ftd_{first_last[0]}_{first_last[1]}_career.txt")
+
+    # cache 2024 data for excel
+    excel_df['name'] = name
+
+    excel_df.to_csv(fr"C:\Users\jonat\OneDrive\projects\scrape_and_score\data\excel\{first_last[0]}_{first_last[1]}_2024.csv")
 
     dfs.append(df)
 

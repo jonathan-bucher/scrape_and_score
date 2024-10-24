@@ -54,12 +54,12 @@ def test_handled_next_qb():
         qb = all_qb_weighted.loc[index, 'name']
 
 
-# testing the central function
-df = over_under(all_qb_weighted_1, 'geno smith', 263.5, 6, 300)
+# testing the bayes model
+test_df2 = over_under(all_qb_weighted_1, 'geno smith', 267.5, 6, 301)[0]
 
 def test_category_col_null():
-    # test no null values in the column
+    assert test_df2['category'].notnull().all()
 
 def test_category_col_values():
-    # assert every value is one or zero
+    assert 1 in test_df2['category'] 
     
